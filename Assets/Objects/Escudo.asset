@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c57232be50835d44f8e13d2f8bda0172, type: 3}
+  m_Name: Escudo
+  m_EditorClassIdentifier: 
+  itemType: 2
+  itemName: Escudo reFachera
+  itemDescription: "Este escudo del Primark te proteger\xE1 de ataques m\xE1gicos
+    (Tengo esquizofrenia)"
+  itemPrice: 20
+  itemSprite: {fileID: 21300000, guid: 2626f99f5d5a11a47b9e9f5e82ab2163, type: 3}
